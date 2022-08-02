@@ -21,10 +21,10 @@
  * YMM   ""`   "YUMMMMMP" "YUMMMMMP"MMMM   "W" YMM   ""`  `""*UMM  """"YUMMMMMMMP"`  
  */
 
-@import url("https://raw.githubusercontent.com/EmotionalLove/YoRHA-UI-BetterDiscord-Lain/master/font/stylesheet.css"); /* Font */
-@import url("https://raw.githubusercontent.com/EmotionalLove/YoRHA-UI-BetterDiscord-Lain/master/NieR-Cursor.css"); /* Cursor */
-@import url("https://raw.githubusercontent.com/EmotionalLove/YoRHA-UI-BetterDiscord-Lain/master/NieR-Import.theme.css"); /* Main File */
-@import url("https://raw.githubusercontent.com/EmotionalLove/YoRHA-UI-BetterDiscord-Lain/master/LightImport.theme.css"); /* Light Part of Theme */
+@import url("https://emotionallove.github.io/bdtheme/font/stylesheet.css"); /* Font */
+@import url("https://emotionallove.github.io/bdtheme/NieR-Cursor.css"); /* Cursor */
+@import url("https://emotionallove.github.io/bdtheme/NieR-Import.theme.css"); /* Main File */
+@import url("https://emotionallove.github.io/bdtheme/LightImport.theme.css"); /* Dark Part of Theme */
 
 /* GLOBAL VARIABLES */
 :root {

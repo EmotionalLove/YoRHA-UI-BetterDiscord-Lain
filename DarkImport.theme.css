@@ -1,9 +1,9 @@
 #app-mount {
-    background: url("https://raw.githubusercontent.com/EmotionalLove/YoRHA-UI-BetterDiscord-Lain/master/assets/wallpapers/dark-theme-1080.png")
+    background: url("https://emotionallove.github.io/bdtheme/assets/wallpapers/dark-theme-1080.png")
         center/cover no-repeat;
 }
 .homeIcon-r0w4ny {
-    background: url("https://raw.githubusercontent.com/EmotionalLove/YoRHA-UI-BetterDiscord-Lain/master/assets/icons/home_dark-theme.png")
+    background: url("https://emotionallove.github.io/bdtheme/assets/icons/home_dark-theme.png")
         center/contain no-repeat;
 }
 #app-mount:before {
