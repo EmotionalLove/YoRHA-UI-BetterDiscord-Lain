@@ -1,9 +1,9 @@
 #app-mount {
-    background: url("https://raw.githubusercontent.com/AccraZed/YoRHA-UI-BetterDiscord/master/assets/wallpapers/dark-theme-1440.png")
+    background: url("https://raw.githubusercontent.com/EmotionalLove/YoRHA-UI-BetterDiscord-Lain/master/assets/wallpapers/dark-theme-1080.png")
         center/cover no-repeat;
 }
 .homeIcon-r0w4ny {
-    background: url("https://raw.githubusercontent.com/AccraZed/YoRHA-UI-BetterDiscord/master/assets/icons/home_dark-theme.png")
+    background: url("https://raw.githubusercontent.com/EmotionalLove/YoRHA-UI-BetterDiscord-Lain/master/assets/icons/home_dark-theme.png")
         center/contain no-repeat;
 }
 #app-mount:before {
